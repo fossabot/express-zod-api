@@ -1,6 +1,7 @@
 # Express Zod API
 
 ![logo](https://raw.githubusercontent.com/RobinTail/express-zod-api/master/logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRobinTail%2Fexpress-zod-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRobinTail%2Fexpress-zod-api?ref=badge_shield)
 
 ![CI](https://github.com/RobinTail/express-zod-api/actions/workflows/node.js.yml/badge.svg)
 ![Swagger Validator](https://img.shields.io/swagger/valid/3.0?specUrl=https%3A%2F%2Fraw.githubusercontent.com%2FRobinTail%2Fexpress-zod-api%2Fmaster%2Fexample%2Fexample.swagger.yaml)
@@ -1101,3 +1102,7 @@ Please let me know in [Issues section](https://github.com/RobinTail/express-zod-
 
 Found a vulnerability or other security issue?
 Please refer to [Security policy](https://github.com/RobinTail/express-zod-api/blob/master/SECURITY.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRobinTail%2Fexpress-zod-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FRobinTail%2Fexpress-zod-api?ref=badge_large)
